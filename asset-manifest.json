@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/libeol-meeting/static/css/main.d06c9489.chunk.css",
+    "main.js": "/libeol-meeting/static/js/main.a93b4a81.chunk.js",
+    "main.js.map": "/libeol-meeting/static/js/main.a93b4a81.chunk.js.map",
+    "runtime-main.js": "/libeol-meeting/static/js/runtime-main.f9bfe60f.js",
+    "runtime-main.js.map": "/libeol-meeting/static/js/runtime-main.f9bfe60f.js.map",
+    "static/js/2.4722268c.chunk.js": "/libeol-meeting/static/js/2.4722268c.chunk.js",
+    "static/js/2.4722268c.chunk.js.map": "/libeol-meeting/static/js/2.4722268c.chunk.js.map",
+    "index.html": "/libeol-meeting/index.html",
+    "static/css/main.d06c9489.chunk.css.map": "/libeol-meeting/static/css/main.d06c9489.chunk.css.map",
+    "static/js/2.4722268c.chunk.js.LICENSE.txt": "/libeol-meeting/static/js/2.4722268c.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/libeol-meeting/static/media/image.7d1582e3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9bfe60f.js",
+    "static/js/2.4722268c.chunk.js",
+    "static/css/main.d06c9489.chunk.css",
+    "static/js/main.a93b4a81.chunk.js"
+  ]
+}
